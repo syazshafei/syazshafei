@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently working as Software Engineer in Kuala Lumpur, Malaysia.\
+💻 &nbsp;I'm currently working as Software Engineer in Kuala Lumpur, Malaysia.\
 🌱 &nbsp;I'm on track for learning more about Data Analytics, Software Development, Artificial Intelligence & Cloud Architecture.\
 ✍️ &nbsp;In my free time, I watch a lot of Youtube videos on new technologies.
 
@@ -29,6 +29,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 My Github activities is not much because I'm working more on private company GitLab repositories.
+
+Snapshot of my activities in private company GitLab *(Latest on May 2021)*
+![image](https://user-images.githubusercontent.com/28984703/117601119-0f90a500-b180-11eb-8b58-92e372e6b715.png)
+
 
 <p align="center">
 <a href="https://github.com/syazwan0913">
