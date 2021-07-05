@@ -30,8 +30,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 My Github activities is not much because I'm working more on private company GitLab repositories.
 
-Snapshot of my activities in private company GitLab *(Latest on May 2021)*
-![image](https://user-images.githubusercontent.com/28984703/117601119-0f90a500-b180-11eb-8b58-92e372e6b715.png)
+Snapshot of my activities in private company GitLab *(Latest on June 2021)*
+![image](https://user-images.githubusercontent.com/28984703/124479095-7c1ecd80-ddd8-11eb-8af8-6ce975002fcb.png)
 
 
 <p align="center">
