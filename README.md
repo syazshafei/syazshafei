@@ -28,12 +28,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-My Github activities is not much because I'm working more on private company GitLab repositories.
-
-Snapshot of my activities in private company GitLab *(Latest on June 2021)*
-![image](https://user-images.githubusercontent.com/28984703/124479095-7c1ecd80-ddd8-11eb-8af8-6ce975002fcb.png)
-
-
 <p align="center">
 <a href="https://github.com/syazwan0913">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syazwan0913&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
