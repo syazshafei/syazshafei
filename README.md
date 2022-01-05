@@ -4,8 +4,8 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 💻 &nbsp;I'm currently working as Software Engineer with 2+ years' experience in Kuala Lumpur, Malaysia.\
-🌱 &nbsp;I'm on track for learning more about Software Development, Web Programming, Cloud Architecture, Data Engineering & Data Visualization\
-✍️ &nbsp;In my free time, I watch a lot of Youtube videos on new technologies and read programming blogs.
+🌱 &nbsp;I'm on track for learning more about Software Development, Data Engineering, Data Visualization & Cloud Architecture\
+✍️ &nbsp;In my free time, I watch a lot of Youtube videos on technologies & read programming blogs.
 
 ### 🛠 &nbsp;Tech Stack
 
